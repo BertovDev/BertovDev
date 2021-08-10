@@ -6,13 +6,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Berto Linkedin" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Berto Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 
 <br/>
 
 ### Check Out my resume:
-[<img align="left" alt="Online Resume" width="22px" target="_blank" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="Online Resume" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 
 <br/>
 
@@ -30,5 +30,5 @@
 
 <br/>
 
-[website]: http://bit.ly/BautistaBertoResume
-[linkedin]: https://www.linkedin.com/in/bautista-berto/
+[website]: http://bit.ly/BautistaBertoResume{:target="_blank"}
+[linkedin]: https://www.linkedin.com/in/bautista-berto/{:target="_blank"}
