@@ -31,4 +31,4 @@
 <br/>
 
 [website]: http://bit.ly/BautistaBertoResume
-[linkedin]: www.linkedin.com/in/bautista-berto
+[linkedin]: https://www.linkedin.com/in/bautista-berto/
