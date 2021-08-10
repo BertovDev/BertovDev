@@ -30,5 +30,5 @@
 
 <br/>
 
-[website]: http://bit.ly/BautistaBertoResume{:target="_blank"}
-[linkedin]: https://www.linkedin.com/in/bautista-berto/{:target="_blank"}
+[website]: http://bit.ly/BautistaBertoResume
+[linkedin]: https://www.linkedin.com/in/bautista-berto/
