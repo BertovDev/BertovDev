@@ -35,3 +35,8 @@
 
 [website]: http://bit.ly/BautistaBertoResume
 [linkedin]: https://www.linkedin.com/in/bautista-berto/
+
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BertovDev)](https://github.com/anuraghazra/github-readme-stats)
+
