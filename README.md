@@ -38,5 +38,4 @@
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BertovDev)](https://github.com/anuraghazra/github-readme-stats)
-
+[![BertovDev GitHub stats](https://github-readme-stats.vercel.app/api?username=BertovDev&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
