@@ -41,5 +41,3 @@
 
 [![BertovDev GitHub stats](https://github-readme-stats.vercel.app/api?username=BertovDev&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
-[![BertovDev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BertovDev)](https://github.com/anuraghazra/github-readme-stats)
