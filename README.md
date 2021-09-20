@@ -3,7 +3,7 @@
 ## I'm a System Bachelor Student from Buenos Aires , Argentina
 
 - 😋 I really like code fun projects and share them
-- 🎈 I’m expected to become a Full Web Stack Developer in 2021 (I’m pretty close to it 😁)
+- 🎈 I’m expected to become a Full Web Stack Developer in 2021 😁
 - 🌱 I’m currently learning Three.js and React
 
 ### Connect with me:
