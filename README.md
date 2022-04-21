@@ -31,7 +31,7 @@
 
 <br/>
 
-[website]: http://bit.ly/BautistaBertoResume
+[website]: https://resume.io/r/7jAg5Kzj1
 [linkedin]: https://www.linkedin.com/in/bautista-berto/
 
 <br/>
