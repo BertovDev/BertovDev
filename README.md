@@ -1,6 +1,6 @@
 ### Hi there, I'm Bautista👋
 
-## I'm a System Bachelor Student from Buenos Aires , Argentina
+## I'm a Full Stack Developer from Buenos Aires , Argentina
 
 - 🌱 I’m currently learning Three.js and React
 
