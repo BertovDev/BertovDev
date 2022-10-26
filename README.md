@@ -7,7 +7,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Berto Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-
+[<img align="left" alt="Berto Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png"/>][twitter]
 
 <br/>
 
@@ -35,6 +35,7 @@
 
 [website]: https://resume.io/r/7jAg5Kzj1
 [linkedin]: https://www.linkedin.com/in/bautista-berto/
+[twitter]:https://twitter.com/tongenjs
 
 <br/>
 <br/>
