@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer from Buenos Aires , Argentina
 
-- 🌱 I’m currently learning Three.js and React
+- 🌱 Creating anything that I come up with xd
 
 ### Connect with me:
 
