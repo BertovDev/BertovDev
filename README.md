@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer from Buenos Aires , Argentina
 
-- 🌱 Creating anything that I come up with xd
+- Creating anything that I come up with
 
 ### Connect with me:
 
