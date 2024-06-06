@@ -1,6 +1,6 @@
 ### Hi there, I'm Bautista👋
 
-## I'm a Full Stack Developer from Buenos Aires , Argentina
+## Software Developer from Buenos Aires , Argentina
 
 Creating anything that I come up with
 
@@ -16,8 +16,8 @@ Creating anything that I come up with
 <img align="left" alt="Node.js" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img align="left" alt="MongoDB" width="64px" src="https://davidrengifo.files.wordpress.com/2017/09/mongodb-logo.png"/>
 <img align="left" alt="Git" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-<img align="left" alt="Terminal" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png"/>
+<img align="left" alt="React" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+<img align="left" alt="ThreeJs" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png"/>
 
 
 <br/>
